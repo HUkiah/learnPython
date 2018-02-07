@@ -101,5 +101,8 @@ ENV/
 # mkdocs documentation
 /site
 
+#my configrations:
+ImageSource/
+
 # End of https://www.gitignore.io/api/python
 
